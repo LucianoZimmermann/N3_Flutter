@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Controle de Investimentos',
+      title: 'Login Google',
       theme: ThemeData(
         primaryColor: const Color(0xFF512DA8), // Roxo mais escuro
         useMaterial3: true,
